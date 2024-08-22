@@ -1,4 +1,4 @@
-## &nbsp; 💎WlayRay:rocket:
+## &nbsp; 💎WlayRay :rocket:
 
 - :nerd_face: 25届毕业，Go / C++ 后端实习牲
 - :blue_book: 个人博客：[`WlayRay的个人博客`](https://wlayray.github.io/) 
@@ -31,7 +31,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WlayRay/WlayRay/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-~~吃！随便吃！本来也没多少~~
+~~吃！随便吃！ :melting_face: 本来也没多少（不是）~~
 
 </div>
 <div align="center" >
