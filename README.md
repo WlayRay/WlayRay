@@ -1,6 +1,6 @@
 ## &nbsp; WlayRay:rocket:
 
-- :zap: 25届毕业生 Go or CPP 都干
+- :zap: 25届毕业，Go / C++ 实习牲口
 - :rainbow: 个人博客：[`WlayRay的个人博客`](https://wlayray.github.io/) 
 - ⭐️ 项目集：[`RayBoxIM`](https://github.com/WlayRay/RayBoxServer) [`RayBox分布式搜索引擎`](https://github.com/WlayRay/MiniES) 
 - 🎮 我喜欢的游戏有：`黑神话悟空` `蝙蝠侠阿卡姆骑士` `漫威蜘蛛侠` `真人快打`
