@@ -48,6 +48,7 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
 ![Kafka Badge](https://img.shields.io/badge/Kafka-231F20?logo=kafka&logoColor=fff&style=flat)
+[![Etcd](https://img.shields.io/badge/Etcd-323232?style=flat&logo=etcd&logoColor=white)](https://etcd.io)
 ![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-0056DC?logo=elasticsearch&logoColor=fff&style=flat)
 
 🧰 常用的工具
@@ -60,7 +61,6 @@
 ![GitLab Badge](https://img.shields.io/badge/GitLab-FCA02F?logo=gitlab&logoColor=fff&style=flat)
 ![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F44394?logo=grafana&logoColor=fff&style=flat)
-
 
 <img src="https://skillicons.dev/icons?i=cpp,go,qt,mysql,redis,kafka,docker,nginx,vscode,visualstudio,pycharm,git,github,gitlab,postman" /><br>
 </div>
