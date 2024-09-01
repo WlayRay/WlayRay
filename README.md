@@ -2,7 +2,7 @@
 
 - :nerd_face: 25届毕业，Go / C++ 后端实习牲
 - :blue_book: 个人博客：[`WlayRay的个人博客`](https://wlayray.github.io/) 
-- ⭐️ 项目集：[`RayBoxIM`](https://github.com/WlayRay/RayBoxServer) [`RayBox分布式搜索引擎`](https://github.com/WlayRay/MiniES) 
+- ⭐️ 项目集：[`RayBoxIM`](https://github.com/WlayRay/RayBoxServer) [`ElectricSearch分布式搜索引擎`](https://github.com/WlayRay/MiniES) 
 - 🎮 我喜欢的游戏：`黑神话悟空` `战神` `蝙蝠侠阿卡姆骑士` `漫威蜘蛛侠`
 - 😎 我擅长的领域：`🏸羽毛球` `🏋️‍♂️健身` `💻打电脑` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fish.png" alt="Fish" width="25" height="25" align="absmiddle" />
 
