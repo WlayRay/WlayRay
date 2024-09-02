@@ -68,7 +68,12 @@
 
 
 ## 今年汇总 ✨
-<img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=WlayRay&show_icons=true&layout=compact&theme=tokyonight&locale=cn" /><img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WlayRay&layout=compact&theme=tokyonight&locale=cn" /> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=WlayRay&show_icons=true&layout=compact&theme=tokyonight&locale=cn" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WlayRay&layout=compact&theme=tokyonight&locale=cn" /> 
+</a>
 
-[//]: # (![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=WlayRay&show_icons=true&layout=compact&theme=tokyonight&#41;)
-[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=WlayRay&layout=compact&theme=tokyonight&#41;)
+[//]: # (![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=WlayRay&show_icons=true&layout=compact&theme=tokyonight&locale=cn&#41;)
+[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=WlayRay&layout=compact&theme=tokyonight&locale=cn&#41;)
