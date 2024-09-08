@@ -1,10 +1,10 @@
 ## &nbsp; 💎WlayRay :rocket:
 
-- :nerd_face: 25届毕业，Go / C++ 后端实习牲
+- :nerd_face: 25届 Go / C++ 后端实习牲
 - :blue_book: 个人博客：[`WlayRay的个人博客`](https://wlayray.github.io/) 
 - ⭐️ 项目集：[`RayBoxIM`](https://github.com/WlayRay/RayBoxServer) [`ElectricSearch分布式搜索引擎`](https://github.com/WlayRay/MiniES) 
-- 🎮 我喜欢的游戏：`黑神话悟空` `战神` `蝙蝠侠阿卡姆骑士` `漫威蜘蛛侠`
-- 😎 我擅长的领域：`🏸羽毛球` `🏋️‍♂️健身` `💻打电脑` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fish.png" alt="Fish" width="25" height="25" align="absmiddle" />
+- 🎮 玩过的游戏：`黑神话悟空` `战神` `蝙蝠侠阿卡姆骑士` `漫威蜘蛛侠`
+- 😎 擅长的领域：`🏸羽毛球` `🏋️‍♂️健身` `💻打电脑` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fish.png" alt="Fish" width="25" height="25" align="absmiddle" />
 
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -40,7 +40,6 @@
 💪 技术栈
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Shell Badge](https://img.shields.io/badge/Shell-41CD52?logo=shell&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
