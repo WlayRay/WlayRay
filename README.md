@@ -1,9 +1,9 @@
 ## &nbsp; 💎WlayRay :rocket:
 
-- :nerd_face: 25届 Go / C++ 后端实习牲
+- :nerd_face: 25届 Golang 后端/云原生开发
 - :blue_book: 个人博客：[`WlayRay的个人博客`](https://wlayray.github.io/) 
-- ⭐️ 项目集：[`RayBoxIM`](https://github.com/WlayRay/RayBoxServer) [`ElectricSearch分布式搜索引擎`](https://github.com/WlayRay/MiniES) 
-- 🎮 玩过的游戏：`黑神话悟空` `战神` `蝙蝠侠阿卡姆骑士` `漫威蜘蛛侠`
+- ⭐️ 项目集：[`ElectricSearch分布式搜索引擎`](https://github.com/WlayRay/MiniES) 
+- 🎮 玩过的游戏：`黑神话悟空`
 - 😎 擅长的领域：`🏸羽毛球` `🏋️‍♂️健身` `💻打电脑` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fish.png" alt="Fish" width="25" height="25" align="absmiddle" />
 
 
@@ -14,7 +14,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://wlayray.github.io/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=console.log('welcome to WlayRay's github');Just Do IT!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=welcome+to+WlayRay%27s+github;Just+Do+IT!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
